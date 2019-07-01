@@ -1,4 +1,4 @@
-# crudphp
+# CRUD PHP
 Um CRUD simples feito com PHP procedural
 
 Tecnologias utilizadas:
